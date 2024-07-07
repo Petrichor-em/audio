@@ -1,1 +1,1 @@
-This is a portaudio lib test program.
+.WAV file parser
